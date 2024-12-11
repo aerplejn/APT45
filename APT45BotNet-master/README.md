@@ -1,6 +1,6 @@
-# CarHacking.Tools
+# APT45.Tools
 
-CarHacking.Tools is a scripts collection of scripts to help jump start car research (and hacking?). All the scripts are designed and update to run on [Ubuntu 20.04](ubuntu.com).
+APT45.Tools is a scripts collection of scripts to help jump start car research (and hacking?). All the scripts are designed and update to run on [Gentoo Linux] (https://www.gentoo.org/)).
 
 ## How To Install
 
@@ -9,7 +9,6 @@ CarHacking.Tools is a scripts collection of scripts to help jump start car resea
 To Install The Full Desktop:
 
 ```bash
-Git clone https://github.com/jgamblin/carhackingtools
 cd CarHackingTools
 sudo chmod +x *.sh
 ./workstationinstall.sh
@@ -20,7 +19,6 @@ sudo chmod +x *.sh
 To Install Only The Tools:
 
 ```bash
-git clone https://github.com/jgamblin/carhackingtools
 cd carhackingtools
 sudo chmod +x *.sh
 ./toolinstall.sh
@@ -74,7 +72,3 @@ The following sites have been useful to me:
 ## Warning
 
 I likely don't know what I am doing and this could be done faster, better and simpler some other way. These scripts could also break your car (seriously) and make you cry.
-
-## Github Action Badges
-
-![Lint Code Base](https://github.com/jgamblin/CarHackingTools/workflows/Lint%20Code%20Base/badge.svg)
