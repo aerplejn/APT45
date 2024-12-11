@@ -26,16 +26,7 @@ sudo chmod +x *.sh
 
 ## OBDII Adapters
 
-You will need an OBDII adapter to get started.  
-
-Here are three of my favorites that I own and test with:
-
-| Tool Name | Link | Notes |
-| ------------- | ------------- | ----- |
-| USB ELM327 | <http://a.co/7YrtPui> | Best for getting started and virtual environments |
-| Veepeak Bluetooth | <http://a.co/80FLIMV> | Great for permanent installs and using with your phone |
-| Cantact | <https://hackerwarehouse.com/product/cantact-bundle/> | An amazing open-source project for advanced users |
-| $10 Veepeak Bluetooth | <http://a.co/ajFbcZ4> |  has some limitations |
+You will need an OBDII adapter
 
 ## Included Tools
 
@@ -43,22 +34,22 @@ The following tools are installed and configured automatically:
 
 | Tool Name | Link | Notes |
 | ------------- | ------------- | ----- |
-| Can-Utils | <https://github.com/linux-can/can-utils> | Basic CAN tool |
-| Canbus-Utils |  <https://github.com/digitalbond/canbus-utils> | Basic CAN tool |
-| Cantact-App |  <https://github.com/linklayer/cantact-app/> | Built to work with the Cantact Harware |
-| Caringcaribou | <https://github.com/CaringCaribou/caringcaribou> |  |
-| GNUradio | <https://www.gnuradio.org/> | If you want to look at door locks and TPM modules |
-| c0f |  <https://github.com/zombieCraig/c0f> | |
-| ICSim |  <https://github.com/zombieCraig/ICSim> | Basic simulator for testing without a car  |
-| KatyOBD |  <https://github.com/YangChuan80/KatyOBD> | A really neat project that provides a GUI |
+| Can-Utils | <https://github.com/linux-can/can-utils> 
+| Canbus-Utils |  <https://github.com/digitalbond/canbus-utils> 
+| Cantact-App |  <https://github.com/linklayer/cantact-app/> | 
+| Caringcaribou | <https://github.com/CaringCaribou/caringcaribou> 
+| GNUradio | <https://www.gnuradio.org/> | 
+| c0f |  <https://github.com/zombieCraig/c0f> | 
+| ICSim |  <https://github.com/zombieCraig/ICSim> 
+| KatyOBD |  <https://github.com/YangChuan80/KatyOBD> 
 | Kayak |  <http://kayak.2codeornot2code.org/> | |
-| OBD-Monitor |  <https://github.com/dchad/OBD-Monitor> | A rally neat project that provides a GUI |
-| PyOBD |  <http://www.obdtester.com/pyobd> | Super old tool |
-| Python-OBD |  <https://github.com/brendan-w/python-OBD> | Use over PIP install |
-| SavvyCAN |  <http://www.savvycan.com/> | Basic CAN tool |
-| Scantool |  <https://www.scantool.net/> | Super old tool |
-| UDSim |  <https://github.com/zombieCraig/UDSim> | Basic simulator |
-| Wireshark |  <https://www.wireshark.org/> | Great for capturing OBDII data |  
+| OBD-Monitor |  <https://github.com/dchad/OBD-Monitor> 
+| PyOBD |  <http://www.obdtester.com/pyobd> | 
+| Python-OBD |  <https://github.com/brendan-w/python-OBD> 
+| SavvyCAN |  <http://www.savvycan.com/> | 
+| Scantool |  <https://www.scantool.net/> 
+| UDSim |  <https://github.com/zombieCraig/UDSim> 
+| Wireshark |  <https://www.wireshark.org/> 
 
 ## Stuff To Read
 
@@ -66,9 +57,9 @@ The following sites have been useful to me:
 
 | Link | Notes |
 | ------------- | ------------- |
-| <https://archive.org/details/car-hackers-handbook-the-craig-smith> | Car Hacking Handbook |
-| <https://wiki.linklayer.com/index.php/SocketCAN> | use this when u forget how to enable can0 |
+| <https://archive.org/details/car-hackers-handbook-the-craig-smith> 
+| <https://wiki.linklayer.com/index.php/SocketCAN> 
 
 ## Warning
 
-I likely don't know what I am doing and this could be done faster, better and simpler some other way. These scripts could also break your car (seriously) and make you cry :D
+I likely don't know what I am doing and these scripts could also break your car (seriously) and make you cry.
