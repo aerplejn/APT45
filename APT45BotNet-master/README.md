@@ -9,7 +9,7 @@ APT45.Tools is a scripts collection of scripts to help jump start car research (
 To Install The Full Desktop:
 
 ```bash
-cd CarHackingTools
+cd APT45Tools
 sudo chmod +x *.sh
 ./workstationinstall.sh
 ```
@@ -19,7 +19,7 @@ sudo chmod +x *.sh
 To Install Only The Tools:
 
 ```bash
-cd carhackingtools
+cd APT45Tools
 sudo chmod +x *.sh
 ./toolinstall.sh
 ```
