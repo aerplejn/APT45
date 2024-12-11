@@ -28,28 +28,6 @@ sudo chmod +x *.sh
 
 You will need an OBDII adapter
 
-## Included Tools
-
-The following tools are installed and configured automatically:
-
-| Tool Name | Link | Notes |
-| ------------- | ------------- | ----- |
-| Can-Utils | <https://github.com/linux-can/can-utils> 
-| Canbus-Utils |  <https://github.com/digitalbond/canbus-utils> 
-| Cantact-App |  <https://github.com/linklayer/cantact-app/> | 
-| Caringcaribou | <https://github.com/CaringCaribou/caringcaribou> 
-| GNUradio | <https://www.gnuradio.org/> | 
-| c0f |  <https://github.com/zombieCraig/c0f> | 
-| ICSim |  <https://github.com/zombieCraig/ICSim> 
-| KatyOBD |  <https://github.com/YangChuan80/KatyOBD> 
-| Kayak |  <http://kayak.2codeornot2code.org/> | |
-| OBD-Monitor |  <https://github.com/dchad/OBD-Monitor> 
-| PyOBD |  <http://www.obdtester.com/pyobd> | 
-| Python-OBD |  <https://github.com/brendan-w/python-OBD> 
-| SavvyCAN |  <http://www.savvycan.com/> | 
-| Scantool |  <https://www.scantool.net/> 
-| UDSim |  <https://github.com/zombieCraig/UDSim> 
-| Wireshark |  <https://www.wireshark.org/> 
 
 ## Stuff To Read
 
