@@ -35,8 +35,7 @@ https://archive.org/details/car-hackers-handbook-the-craig-smith
 
 https://wiki.linklayer.com/index.php/SocketCAN 
 
-glhf
 
 ## Warning
 
-I likely don't know what I am doing and these scripts could also break your car (seriously) and make you cry.
+I likely don't know what I am doing and these scripts could also break your car or phone (seriously) and make you cry. Have fun!
