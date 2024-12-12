@@ -35,7 +35,7 @@ https://archive.org/details/car-hackers-handbook-the-craig-smith
 
 https://wiki.linklayer.com/index.php/SocketCAN 
 
-Have fun lol
+glhf
 
 ## Warning
 
