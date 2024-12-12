@@ -38,4 +38,4 @@ https://wiki.linklayer.com/index.php/SocketCAN
 
 ## Warning
 
-I likely don't know what I am doing and these scripts could also break your car or phone (seriously) and make you cry. Have fun!
+I likely don't know what I am doing and these scripts could also break your car or phone (seriously) and make you cry.
