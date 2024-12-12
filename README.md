@@ -1,6 +1,6 @@
 # APT45.Tools
 
-APT45.Tools is a collection of scripts I came across, to help jump start car research (and hacking?). All the scripts are designed and updated to run on [Gentoo](https://gentoo.org).
+APT45.Tools is a collection of scripts I came across on a sketchy forum, to help jump start cars and research phones lol (and hacking?). All the scripts are designed and updated to run on [Gentoo](https://gentoo.org).
 
 ## How To Install
 
