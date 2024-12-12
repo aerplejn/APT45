@@ -31,10 +31,9 @@ You will need an OBDII adapter
 
 ## Stuff To Read
 
-The following sites have been useful to me:
 https://archive.org/details/car-hackers-handbook-the-craig-smith 
 https://wiki.linklayer.com/index.php/SocketCAN 
-
+Have fun
 ## Warning
 
 I likely don't know what I am doing and these scripts could also break your car (seriously) and make you cry.
