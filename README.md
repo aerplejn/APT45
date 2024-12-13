@@ -1,6 +1,6 @@
 # APT45.Tools
 
-APT45.Tools is a collection of scripts I came across on a sketchy forum, to help jump start cars and research phones lol (and hacking?). All the scripts are designed and updated to run on [Gentoo](https://gentoo.org).
+APT45.Tools is a collection of scripts I came across on a sketchy forum. Aimed at vehicle diagnostics, phone research, and hacking. These scripts are tailored for use on [Gentoo Linux](https://gentoo.org).
 
 ## How To Install
 
@@ -25,17 +25,15 @@ sudo chmod +x *.sh
 ```
 
 ## OBDII Adapters
-
-You will need an OBDII adapter
-
-
-## Stuff To Read
-
-https://archive.org/details/car-hackers-handbook-the-craig-smith
-
-https://wiki.linklayer.com/index.php/SocketCAN 
+* Required for Vehicle Diagnostics: Ensure your OBDII adapter supports the protocol used by your vehicle. Common protocols include ISO 9141-2, ISO 14230-4 (KWP2000), and ISO 15765-4 (CAN bus).
 
 
-## Warning
+## Recommended Reading
+To deepen your understanding of vehicle hacking and CAN bus protocols, consider the following resources:
 
-I likely don't know what I am doing and these scripts could also break your car or phone (seriously) and make you cry.
+* Car Hacker's Handbook by Craig Smith: [Available at Internet Archive](https://archive.org/details/car-hackers-handbook-the-craig-smith)
+* SocketCAN Documentation: [Found on LinkLayer Wiki](https://wiki.linklayer.com/index.php/SocketCAN)
+
+## WARNING
+* Use at Your Own Risk: The author is not liable for any damage to vehicles, phones, or other devices resulting from the use of these tools.
+* Security and Legal Considerations: These tools should not be used for unauthorized access or tampering. Always be aware of the legal implications in your jurisdiction before using such software.
